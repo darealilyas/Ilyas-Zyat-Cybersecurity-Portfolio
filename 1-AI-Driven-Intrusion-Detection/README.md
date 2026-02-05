@@ -1,1 +1,80 @@
-content coming soon
+# Enhancing Cybersecurity Threat Detection in AI-Powered Intrusion Detection Systems Using Adversarial Penetration Testing
+
+## Overview
+
+The primary aim of this project was to enhance cybersecurity threat detection in AI-powered Intrusion Detection Systems using adversarial penetration testing. The work focuses on experimentally evaluating how effective AI-based IDS models are when exposed to realistic penetration testing activity, identifying potential weaknesses against adversarial manipulation, and exploring approaches to improve detection resilience.
+
+The project investigates how modern intrusion detection can combine traditional signature-based monitoring with machine-learning approaches. Instead of relying solely on theoretical datasets, realistic attack traffic was generated in a controlled lab environment to observe how detection systems behave under conditions closer to real enterprise networks.
+
+The goal was not only to build an AI-supported IDS model, but to understand how these systems perform when confronted with practical attack scenarios, how they compare to traditional rule-based IDS solutions, and where improvements can be made to increase reliability in operational environments.
+
+---
+
+### Objectives
+
+- Review traditional intrusion detection approaches alongside AI-based IDS research, with emphasis on adversarial machine learning and penetration testing implications  
+- Analyse the CIC-IDS2017 dataset as a baseline for training and evaluating machine-learning intrusion detection performance  
+- Develop an AI-based IDS using a Random Forest model trained on extracted network features  
+- Design and configure a controlled lab environment integrating tools such as Kali Linux, Snort, Wireshark, Metasploit, and Jupyter Notebook  
+- Generate realistic adversarial network traffic through penetration testing activities including scanning, exploitation attempts, and abnormal traffic patterns  
+- Evaluate detection performance using metrics such as precision and accuracy across normal and malicious traffic conditions  
+- Assess susceptibility of the detection model to evasion techniques through adversarial testing scenarios  
+- Improve detection reliability through defensive strategies such as retraining and ensemble-based Random Forest approaches  
+- Compare AI-driven intrusion detection performance with traditional signature-based IDS monitoring to identify strengths and limitations  
+- Draw practical conclusions and propose recommendations for improving deployment of AI-based IDS solutions in cybersecurity environments
+
+## Methodology
+
+### Research Approach
+
+The project adopted a practical evaluation approach combining controlled penetration testing with intrusion detection analysis. Instead of relying exclusively on pre-existing datasets, adversarial traffic was generated within a dedicated lab environment to replicate realistic attack patterns.
+
+A hybrid IDS model was considered where:
+
+- Signature-based detection provided baseline monitoring of known attack indicators
+- Machine-learning classification analysed traffic flows for behavioural anomalies
+- Comparative analysis assessed strengths and weaknesses of each approach
+
+This allowed observation of detection performance under both expected and unpredictable traffic conditions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/project%20design.png" width="750">
+</p>
+
+<p align="center">
+  <em>Hybrid intrusion detection workflow combining signature-based monitoring with machine learning analysis.</em>
+</p>
+
+### Requirements, Design & Implementation
+
+The design focused on creating a controlled yet realistic environment suitable for detection testing:
+
+- A segregated virtual lab network ensured safe testing without affecting production systems
+- Network traffic was intentionally mixed with benign and malicious activity to simulate realistic operational noise
+- Detection components were configured to monitor traffic continuously for both rule-based and ML analysis
+- Emphasis was placed on observation, interpretation, and evaluation rather than exploitation impact
+
+The implementation aimed to replicate practical detection workflows used in enterprise monitoring environments.
+
+---
+
+## Lab Setup
+
+A dedicated virtual lab environment was created to safely simulate attack traffic and detection processes.
+
+- Attacker environment: Kali Linux system used to generate controlled adversarial traffic
+- Target environment: Ubuntu-based system monitored by IDS components
+- Detection environment: Hybrid intrusion detection setup combining signature-based monitoring and ML evaluation
+- Network isolation ensured all testing remained contained within a controlled environment
+- Packet capture and monitoring tools were used to observe traffic behaviour and IDS responses
+
+This setup allowed realistic testing of intrusion detection capabilities while maintaining ethical and safe experimental conditions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/System%20Architecture.png" width="750">
+</p>
+
+<p align="center">
+  <em>Isolated lab network used to generate adversarial traffic and evaluate intrusion detection behaviour.</em>
+</p>
+

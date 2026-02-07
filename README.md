@@ -89,3 +89,5 @@ Collectively, these projects demonstrate foundational skills and technical readi
 ## Certifications
 
 - ISC2 Certified in Cybersecurity (CC)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19ef3040-6770-4a1d-8c50-5f6c92df4536" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

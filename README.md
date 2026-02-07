@@ -90,4 +90,8 @@ Collectively, these projects demonstrate foundational skills and technical readi
 
 - ISC2 Certified in Cybersecurity (CC)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/assets/certified-in-cybersecurity-cc.png" width="750">
+</p>
+
 https://www.credly.com/badges/19ef3040-6770-4a1d-8c50-5f6c92df4536/public_url

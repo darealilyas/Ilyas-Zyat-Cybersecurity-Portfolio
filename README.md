@@ -12,12 +12,14 @@ Hands-on cybersecurity portfolio covering penetration testing, threat intelligen
 
 ### Experience
 
-#### Experience
-
-- Project-based cybersecurity experience through academic coursework and independent technical work
-- Designed and evaluated security solutions rather than only theoretical study
-- Experience working with realistic attack scenarios, datasets, and investigative case studies
-- Familiar with documenting findings in a clear, structured, and professional manner
+- Executed phishing simulation campaigns (phishing, spear phishing, whaling); achieved high click-through rates and delivered follow-up security awareness training
+- Conducted vulnerability scanning across enterprise assets using Nessus; triaged findings and supported patch management workflows
+- Worked with Darktrace AI-powered threat detection to monitor network anomalies and investigate flagged events
+- Managed endpoint security operations using Sophos and Symantec across enterprise environments
+- Contributed to the design and deployment of a firewall solution; configured security rules and validated network traffic flows
+ -Designed and evaluated security solutions across detection, exploitation, forensics, and threat intelligence — focused on applied, hands-on work rather than theoretical study
+- Worked with realistic attack scenarios, datasets, and investigative case studies
+- Documented findings in clear, structured, professional reports aligned with industry standards
 
 ### Cybersecurity Portfolio
 

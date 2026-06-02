@@ -84,6 +84,6 @@ Collectively, these projects demonstrate foundational skills and technical readi
 
   <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/assets/certified-in-cybersecurity-cc.png" width="100">
 
-- CompTIA PenTest+ — in progress
+- CompTIA PenTest+ (in progress)
 
-- TryHackMe: <a href="https://tryhackme.com/p/not00chkn">Profile</a> — Mage Rank
+- TryHackMe: <a href="https://tryhackme.com/p/not00chkn">Profile</a> (Mage Rank)

@@ -12,6 +12,8 @@ Hands-on cybersecurity portfolio covering penetration testing, threat intelligen
 
 ### Experience
 
+#### Experience
+
 - Project-based cybersecurity experience through academic coursework and independent technical work
 - Designed and evaluated security solutions rather than only theoretical study
 - Experience working with realistic attack scenarios, datasets, and investigative case studies

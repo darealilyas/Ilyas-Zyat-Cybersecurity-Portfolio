@@ -1,6 +1,6 @@
 # Ilyas-Zyat-Cybersecurity-Portfolio
 
-Applied cybersecurity portfolio covering detection, penetration testing, threat intelligence, digital forensics, and malware analysis.
+Hands-on cybersecurity portfolio covering penetration testing, threat intelligence, intrusion detection, digital forensics, and malware analysis.
 
 ## Summary
 
@@ -25,20 +25,12 @@ Applied cybersecurity portfolio covering detection, penetration testing, threat 
 
 ### Skills
 
-- Intrusion detection and analysis (signature-based and machine-learning approaches)
-- Network and web application penetration testing
-- Threat intelligence collection, enrichment, and analysis
-- Digital forensics and evidence analysis
-- Malware analysis and detection evaluation
-- Scripting and automation for security tasks
-
-### Interests
-
-- Detection engineering and intrusion detection systems
-- Adversarial testing and realistic attack simulation
-- Threat intelligence and SOC operations
-- Digital forensics and incident investigation
-- Understanding limitations and failure cases of security tools
+- Offensive: Nmap, Burp Suite, SQLmap, Dirb, Metasploit
+- Detection & Analysis: Snort, Wireshark, tcpdump
+- Threat Intelligence & OSINT: Maltego, VirusTotal, Shodan
+- Forensics & Malware: Autopsy, FTK Imager, Ghidra, Detect It Easy, Cuckoo Sandbox
+- Enterprise Security: Darktrace, Nessus, Sophos, Symantec, Saner
+- Scripting: Python, Bash
 
 ---
 
@@ -92,5 +84,6 @@ Collectively, these projects demonstrate foundational skills and technical readi
 
   <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/assets/certified-in-cybersecurity-cc.png" width="100">
 
+- CompTIA PenTest+ — in progress
 
-- TryHackMe Penetration Testing Certification (PT1) (ongoing)
+- TryHackMe: <a href="https://tryhackme.com/p/not00chkn">Profile</a> — Mage Rank

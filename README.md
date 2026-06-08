@@ -88,6 +88,8 @@ Collectively, these projects demonstrate foundational skills and technical readi
 
   <img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/assets/certified-in-cybersecurity-cc.png" width="100">
 
-- CompTIA PenTest+ / <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="28739f21-f286-4534-97f4-a6be2c66e2d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- CompTIA PenTest+ : https://www.credly.com/badges/28739f21-f286-4534-97f4-a6be2c66e2d1/public_url
+
+<img src="https://raw.githubusercontent.com/darealilyas/Ilyas-Zyat-Cybersecurity-Portfolio/main/1-AI-Driven-Intrusion-Detection/assets/comptia-pentest-ce-certification.png" width="100">
 
 - TryHackMe: <a href="https://tryhackme.com/p/not00chkn">Profile</a> (Mage Rank)
